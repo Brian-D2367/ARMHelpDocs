@@ -11,6 +11,10 @@ nav#autocollapse {
     display: none;
 }
 
+.contribution {
+    display: none !important;
+}
+
 .hidden{
     display: none !important;
 }
