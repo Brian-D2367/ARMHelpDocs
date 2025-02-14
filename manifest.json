@@ -1,0 +1,382 @@
+{
+  "source_base_path": "C:/Deepak/GitHub/ARMHelpDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/Armoury/armoury.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Armoury/armoury.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/Armoury/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Armoury/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/Armoury/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/DigitAll/digitAll.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/DigitAll/digitAll.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/DigitAll/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/DigitAll/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/DigitAll/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/Enemy/enemy.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Enemy/enemy.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/Enemy/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Enemy/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/Enemy/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/Pulse/pulse.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Pulse/pulse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/Pulse/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Pulse/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/Pulse/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Campaign Maintenance/campaignMaintenance.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Campaign Maintenance/campaignMaintenance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Dashboard/dashboard.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Dashboard/dashboard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Import/Auto Film Number/autofilmnumber.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Import/Auto Film Number/autofilmnumber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Import/RAPS Reporting/rapsreporting.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Import/RAPS Reporting/rapsreporting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Import/Screens Summary/screensSummary.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Import/Screens Summary/screensSummary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Import/import.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Import/import.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Message Alerts/messagealerts.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Message Alerts/messagealerts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/Reports/reports.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/Reports/reports.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/RAPS/raps.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/raps.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/RAPS/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/RAPS/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/RAPS/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/Spotter/spotter.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Spotter/spotter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/Spotter/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Spotter/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/Spotter/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/Sys Admin/sysadmin.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Sys Admin/sysadmin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/Sys Admin/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/Sys Admin/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/Sys Admin/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/WRPlive/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/WRPlive/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/WRPlive/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/Articles/WRPlive/wrplive.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/WRPlive/wrplive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/Articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/Articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/add_section.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/add_section.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/editButton.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/editButton.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/print.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/print.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
